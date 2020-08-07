@@ -9,4 +9,7 @@ public class Hello{
 		System.out.println(a+b);		
 		System.out.println("demo1第一次修改");
 	}
+	public static void add(int a,int b){
+		System.out.println("demo2第一次提交");
+	}
 }
