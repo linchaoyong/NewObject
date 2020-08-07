@@ -6,6 +6,7 @@ public class Hello{
 		return a+b;
 	}
 	public static void add(int a,int b){
-		System.out.println(a+b);
+		System.out.println(a+b);		
+		System.out.println("demo1第一次修改");
 	}
 }
